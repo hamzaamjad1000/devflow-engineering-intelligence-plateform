@@ -1,4 +1,4 @@
-# DevFlow Nexus
+# DevFlow - Enginnering Intelligence Plateform
 
 ### Engineering Intelligence & Delivery Management Platform
 
