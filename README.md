@@ -10,7 +10,6 @@ It combines a Kanban workflow with engineering intelligence views so teams can u
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi)
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
 ## Product Overview
 
@@ -250,10 +249,6 @@ Before deploying to production:
 - Advanced sprint reporting
 - PostgreSQL production support
 - Docker Compose deployment
-
-## License
-
-This project is available under the MIT License.
 
 ## Author
 
