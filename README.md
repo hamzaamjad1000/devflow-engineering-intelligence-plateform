@@ -1,4 +1,4 @@
-# DevFlow Nexus
+# DevFlow - Engineering Intelligence Platform
 
 ### Engineering Intelligence & Delivery Management Platform
 
@@ -249,7 +249,6 @@ Before deploying to production:
 - Advanced sprint reporting
 - PostgreSQL production support
 - Docker Compose deployment
-
 
 ## Author
 
